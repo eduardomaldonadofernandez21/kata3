@@ -1,5 +1,5 @@
 
-package kata4;
+package kata3;
 
 import java.util.Map;
 import java.util.Set;
