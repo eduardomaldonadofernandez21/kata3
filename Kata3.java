@@ -1,5 +1,5 @@
 
-package kata4;
+package kata3;
 
 public class Kata3 {
 
