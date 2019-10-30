@@ -1,5 +1,5 @@
 
-package kata4;
+package kata3;
 
 import java.awt.Dimension;
 import javax.swing.JPanel;
